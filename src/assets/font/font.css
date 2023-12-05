@@ -1,0 +1,32 @@
+@font-face{
+    font-family:'SAOUI-Bold';
+    src:url('SAOUI-Bold.otf');
+}
+@font-face{
+    font-family:'SAOUI-Regular';
+    src:url('SAOUI-Regular.otf');
+}
+@font-face{
+    font-family:'SAOUITT-Bold';
+    src:url('SAOUITT-Bold.ttf');
+}
+@font-face{
+    font-family:'SAOUITT-Regular';
+    src:url('SAOUITT-Regular.ttf');
+}
+@font-face{
+    font-family:'SAOWelcome-Bold';
+    src:url('SAOWelcome-Bold.otf');
+}
+@font-face{
+    font-family:'SAOWelcome-Regular';
+    src:url('SAOWelcome-Regular.otf');
+}
+@font-face{
+    font-family:'SAOWelcomeTT-Bold';
+    src:url('SAOWelcomeTT-Bold.ttf');
+}
+@font-face{
+    font-family:'SAOWelcomeTT-Regular';
+    src:url('SAOWelcomeTT-Regular.ttf');
+}
