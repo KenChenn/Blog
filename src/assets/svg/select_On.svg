@@ -1,0 +1,46 @@
+<svg width="365" height="95" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="g_b" x1="Infinity" x2="Infinity" y1="Infinity" y2="Infinity">
+   <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+   <stop offset="0.25" stop-color="#fff"/>
+   <stop offset="0.5" stop-color="#fff"/>
+   <stop offset="0.75" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="g_2" x1="0.5" x2="0.5" y1="1" y2="0">
+   <stop offset="0" stop-color="#FBFBFB" stop-opacity="0"/>
+   <stop offset="0.1" stop-color="#FBFBFB"/>
+   <stop offset="0.5" stop-color="#FBFBFB"/>
+   <stop offset="0.9" stop-color="#FBFBFB"/>
+   <stop offset="1" stop-color="#FBFBFB" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect display="none" fill="url(#g_b)" height="695" id="Menu-3 gradient" width="365" x="1317.5" y="155.5"/>
+  <g id="Menu-2">
+   <g display="none" id="2nd_indicator">
+    <rect fill="url(#g_2)" height="295" id="svg_154" width="2" x="680.33333" y="-74.16667"/>
+    <path d="m681.33333,94.33333l-42,-21l42,-21l0,42zm-11.5,-26.25c-2.9,0 -5.25,2.35 -5.25,5.25s2.35,5.25 5.25,5.25s5.25,-2.35 5.25,-5.25s-2.35,-5.25 -5.25,-5.25z" fill="#FBFBFB" id="svg_155"/>
+   </g>
+   <g id="2nd">
+    <g id="svg_156" opacity="0.4"/>
+    <g id="svg_171">
+     <rect fill="#EBA601" height="95" id="svg_172" width="365" x="-0.49667" y="-0.16667"/>
+    </g>
+   </g>
+   <g display="none" fill="#4d4d4d" id="svg_5">
+    <circle cx="741.33333" cy="171.66333" id="svg_199" r="26.5"/>
+    <circle cx="741.33333" cy="71.66333" id="svg_200" r="26.5"/>
+    <circle cx="741.33333" cy="-28.33667" id="svg_201" r="26.5"/>
+   </g>
+  </g>
+  <g display="none" fill="#4d4d4d" id="1st">
+   <circle cx="789" cy="1161" id="svg_246" r="68"/>
+   <circle cx="789" cy="996.25" id="svg_247" r="68"/>
+   <circle cx="789" cy="831.5" id="svg_248" r="68"/>
+   <circle cx="789" cy="666.75" id="svg_249" r="68"/>
+   <circle cx="789" cy="502" id="svg_250" r="68"/>
+  </g>
+ </g>
+</svg>

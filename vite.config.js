@@ -9,12 +9,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [
     vue(),
-    createSvgIconsPlugin({
-      iconDirs:[path.resolve(process.cwd(),"src/assets/svg")],
-      symbolId:"icon-[name]",
-      inject:"body-last",
-      customDomId:"__svg__icons__dom__"
-    })
+   
   ],
   resolve:{
     alias:{

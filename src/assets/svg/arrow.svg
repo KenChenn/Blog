@@ -1,0 +1,28 @@
+<svg width="46" height="501" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="Infinity" y1="Infinity" x2="Infinity" x1="Infinity" id="g_b">
+   <stop stop-opacity="0" stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" offset="0.25"/>
+   <stop stop-color="#fff" offset="0.5"/>
+   <stop stop-color="#fff" offset="0.75"/>
+   <stop stop-opacity="0" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0" y1="1" x2="0.5" x1="0.5" id="g_a">
+   <stop stop-opacity="0" stop-color="#FBFBFB" offset="0"/>
+   <stop stop-color="#FBFBFB" offset="0.1"/>
+   <stop stop-color="#FBFBFB" offset="0.5"/>
+   <stop stop-color="#FBFBFB" offset="0.9"/>
+   <stop stop-opacity="0" stop-color="#FBFBFB" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect y="155.5" x="1317.5" width="365" id="Menu-3 gradient" height="695" fill="url(#g_b)" display="none"/>
+  <g id="3rd_indicator">
+   <g id="svg_202">
+    <rect y="1.5" x="41" width="2" id="svg_203" height="495" fill="url(#g_a)"/>
+   </g>
+   <path id="svg_204" fill="#FBFBFB" d="m42,270l-42,-21l42,-21l0,42zm-11.5,-26.25c-2.9,0 -5.25,2.35 -5.25,5.25s2.35,5.25 5.25,5.25s5.25,-2.35 5.25,-5.25s-2.35,-5.25 -5.25,-5.25z"/>
+  </g>
+ </g>
+</svg>

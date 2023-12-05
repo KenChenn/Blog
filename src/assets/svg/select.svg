@@ -1,0 +1,37 @@
+<svg width="365" height="95" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="g_b" x1="Infinity" x2="Infinity" y1="Infinity" y2="Infinity">
+   <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+   <stop offset="0.25" stop-color="#fff"/>
+   <stop offset="0.5" stop-color="#fff"/>
+   <stop offset="0.75" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="Menu-3">
+   <g id="3rd">
+    <rect fill="#FBFBFB" height="95" id="svg_12" width="365" x="-0.07" y="-0.11"/>
+   </g>
+   <g id="Skills"/>
+   <g display="none" fill="#4d4d4d" id="svg_2">
+    <circle cx="55.43" cy="645.96" id="svg_147" r="26.5"/>
+    <circle cx="55.43" cy="545.96" id="svg_148" r="26.5"/>
+    <circle cx="55.43" cy="445.96" id="svg_149" r="26.5"/>
+    <circle cx="55.43" cy="345.96" id="svg_150" r="26.5"/>
+    <circle cx="55.43" cy="245.96" id="svg_151" r="26.5"/>
+    <circle cx="55.43" cy="145.96" id="svg_152" r="26.5"/>
+    <circle cx="55.43" cy="45.96" id="svg_153" r="26.5"/>
+   </g>
+  </g>
+  <rect display="none" fill="url(#g_b)" height="695" id="Menu-3 gradient" width="365" x="1317.5" y="155.5"/>
+  <g display="none" fill="#4d4d4d" id="1st">
+   <circle cx="789" cy="1161" id="svg_246" r="68"/>
+   <circle cx="789" cy="996.25" id="svg_247" r="68"/>
+   <circle cx="789" cy="831.5" id="svg_248" r="68"/>
+   <circle cx="789" cy="666.75" id="svg_249" r="68"/>
+   <circle cx="789" cy="502" id="svg_250" r="68"/>
+  </g>
+ </g>
+</svg>
