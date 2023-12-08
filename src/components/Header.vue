@@ -14,8 +14,9 @@ export default{
 
 <template>
     <div class="headerShow">
-        <RouterLink to="/">LinkStart</RouterLink>
-        <RouterLink to="/Home">Home</RouterLink>
+        <RouterLink to="/SwordArtOnline">回到SAO</RouterLink>
+        <RouterLink to="/VtextAndVmodel">VtextAndVmodel</RouterLink>
+        <RouterLink to="/Vfor">Vfor</RouterLink>
         <!-- <RouterLink to=""> -->
     </div>
 </template>

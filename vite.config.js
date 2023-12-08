@@ -11,11 +11,11 @@ export default defineConfig({
     vue(),
    
   ],
-  resolve:{
-    alias:{
-      "@":path.resolve(__dirname,"./src")
-    }
-  },
+  // resolve:{
+  //   alias:{
+  //     "@":path.resolve(__dirname,"./src")
+  //   }
+  // },
   optimizeDeps:{
     includs:['jquery']
   },

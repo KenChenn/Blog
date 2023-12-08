@@ -177,7 +177,7 @@ h1,h2,h3 {
     position: absolute;
     top: 0;
     left: 0;
-    transform-origin: left;
+    transform-origin: left; //設置旋轉的基準點
     transform: scaleX(0);
 }
 
@@ -190,7 +190,7 @@ h1,h2,h3 {
 }
 
 .effect.active:after {
-    animation: anime 1.2s 0.5s cubic-bezier(0.860, 0.000, 0.070, 1.000) forwards;
+    animation: anime 1.2s 0.5s cubic-bezier(0.860, 0.000, 0.070, 1.000) forwards;  //cubic-bezier= 貝塞爾曲線?
 }
 
 @keyframes anime {
